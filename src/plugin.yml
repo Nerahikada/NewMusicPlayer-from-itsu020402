@@ -1,0 +1,12 @@
+name: NewMusicPlayer
+main: itsu.mcbe.newmusicplayer.core.NewMusicPlayer
+author: itsu020402
+api: ["1.0.0"]
+version: 1.0.0
+load: POSTWORLD
+description: リソースパック音楽再生プラグイン
+
+commands:
+  playmusic:
+    usage: "/playmusic"
+    description: 音楽再生フォームを表示します。
